@@ -3,9 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujeet-12&label=Profile%20views&color=704dff&style=flat" alt="sujeet-12" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujeet-12" alt="sujeet-12" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sssss" target="blank"><img src="https://img.shields.io/twitter/follow/sssss?logo=twitter&style=for-the-badge" alt="sssss" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@hritik_gautam12" target="blank"><img src="https://img.shields.io/twitter/follow/sssss?logo=twitter&style=for-the-badge" alt="sssss" /></a> </p>
 
 - 🔭 I’m currently working on [Python data](__&&_)
 
@@ -35,7 +34,7 @@
 <p align="left">
 <a href="https://codepen.io/sssssss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="sssssss" height="30" width="40" /></a>
 <a href="https://dev.to/$$$$" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="$$$$" height="30" width="40" /></a>
-<a href="https://twitter.com/sssss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sssss" height="30" width="40" /></a>
+<a href="https://twitter.com/@hritik_gautam12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sssss" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ssssssss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ssssssss" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ssssssss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ssssssss" height="30" width="40" /></a>
 <a href="https://codesandbox.com/ssssds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ssssds" height="30" width="40" /></a>
@@ -90,7 +89,7 @@
  
 ----
  
-<a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sujeet-12&custom_title=sujeet-12's%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/sujeet-12"><img alt="sujeet-12's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sujeet-12&custom_title=sujeet-12's%20Contribution%20Graph&theme=react-dark" /></a>
  
 </details>
  
