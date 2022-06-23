@@ -68,7 +68,7 @@
  
 ----	
  
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=7oSkaaa&theme=tokyonight_duo" alt="7oSkaaa" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sujeet-12&theme=tokyonight_duo" alt="sujeet-12" /></p>
  
 </details>
   
@@ -78,7 +78,7 @@
 	
 <p align="center">
     <a href="https://github.com/sujeet-12/github-readme-stats">
-	    <img alt="sujeet's Github Stats" src="https://github-readme-stats.vercel.app/api?username=7oSkaaa&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	    <img alt="sujeet-12's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sujeet-12&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=7oSkaaa&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
 <br/>
  
@@ -90,7 +90,7 @@
  
 ----
  
-<a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=7oSkaaa&custom_title=7oSkaaa's%20Contribution%20Graph&theme=react-dark" /></a>
+<a href="https://github.com/7oSkaaa"><img alt="7oSkaaa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sujeet-12&custom_title=sujeet-12's%20Contribution%20Graph&theme=react-dark" /></a>
  
 </details>
  
@@ -98,24 +98,15 @@
  
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7oskaaa&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sujeet-12&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="sujeet-12" /></a> </p>
 	
 </details>
 	
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
- 
-----
-	
-<div>
-  <
-  </p>
-</div>
-</details>
  
 </br></br>
 	
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
+	<img src = "https://github.com/sujeet-12/sujeet-12/blob/output/github-contribution-grid-snake.svg" alt = "Snake Game"/>
 </p>
