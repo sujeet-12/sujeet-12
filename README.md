@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=72F74D&width=435&lines=Hello%2C+%F0%9F%91%8B+I'M+HRITIK+GAUTAM.;A+UI%2FUX+Devloper+%26+Designer.;A+Web+dev+%2F+Application+devloper.;A+Game+devloper+with+Unreal+Engine.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=72F74D&width=435&lines=Hello%2C+%F0%9F%91%8B+I'M+HRITIK+GAUTAM.;A+UI%2FUX+Devloper+%26+Designer.;A+Web+dev+%2F+Application+devloper.;A+Game+devloper.)](https://git.io/typing-svg)
 
 Welcome to my GitHub profile! I’m a UI designer/Web dev, passionate about Making websites. 
 
