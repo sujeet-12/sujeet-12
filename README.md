@@ -1,6 +1,5 @@
 <div align="center">
   <img src="Black and White Circle Business Logo_20250113_171119_0000.png" style="border-radius:4vh"/>
-  
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=72F74D&width=435&lines=Hello%2C+%F0%9F%91%8B+I'M+HRITIK+GAUTAM.;A+UI%2FUX+Devloper+%26+Designer.;A+Web+dev+%2F+Application+devloper.;A+Game+devloper.)
 
