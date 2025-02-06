@@ -35,9 +35,17 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,dart,firebase,github,tailwind,jquery,py,figma,vscode&theme=dark&perline=6" alt="Tech Stack" />
 </div>
+</br>
 
+| Feature        | Description                                                                 |
+|----------------|-----------------------------------------------------------------------------|
+| **Name**       | Hritik Gautam                                                                |
+| **Profession** | UI/UX Developer & Designer, Web Developer, Application Developer, Game Developer |
+| **Current Work** | Developing new websites                                                     |
+| **Learning**   | Nextjs, Flutter                                                                |
+| **Contact**    | [sujeetgau12@gmail.com]             |
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sujeet-12&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sujeet-12&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sujeet-12&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
