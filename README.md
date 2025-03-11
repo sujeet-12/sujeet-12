@@ -16,7 +16,10 @@
 
 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-stats.vercel.app/api/streak/?username=sujeet-12&theme=vue-dark&hide_border=true)  
+<a href="https://github.com/sujeet-12/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hritik's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=DenverCoder1&theme=vue-dark&hide_border=true&short_numbers=true"/>
+    </a>
+    
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujeet-12&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujeet-12&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)  
 ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=sujeet-12&theme=github)
