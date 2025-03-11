@@ -16,7 +16,7 @@
 
 📊 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sujeet-12&theme=vue-dark&hide_border=true)  
+![GitHub Streak](https://github-readme-stats.vercel.app/api/streak/?username=sujeet-12&theme=vue-dark&hide_border=true)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujeet-12&show_icons=true&theme=vue-dark&count_private=true&include_all_commits=true&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujeet-12&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)  
 ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=sujeet-12&theme=github)
