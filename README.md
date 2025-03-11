@@ -46,7 +46,8 @@
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sujeet-12&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sujeet-12&theme=dark&hide_border=true)<br/>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sujeet-12&theme=vue-dark" alt="GitHub Streak" /></a>
+<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sujeet-12&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
