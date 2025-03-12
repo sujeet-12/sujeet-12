@@ -40,4 +40,6 @@
 
 <a href="https://github.com/user-attachments/assets/a0eca326-97a4-482c-84a7-2120037fdc60">Web Development Certificate</a>
 
+![Warning](https://img.shields.io/badge/Job-Frontend-blue?style=flat-square)
+
 <p>Feel free to check out my repositories and reach out if you have any questions or opportunities for collaboration!</p><p>Happy coding! 😊</p>
