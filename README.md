@@ -26,9 +26,9 @@
 
 🌐 Connect With Me
 <div align="center">
-    <a href="https://discord.gg/dn2dpgCbXP"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin: 5px; border-radius: 8px;"/></a>
-    <a href="https://instagram.com/0xmainak"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin: 5px; border-radius: 8px;"/></a>
-    <a href="https://youtube.com/@mainak_p"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="margin: 5px; border-radius: 8px;"/></a>
+    <a href="https://discord.gg/dMmRKA3S"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" style="margin: 5px; border-radius: 8px;"/></a>
+    <a href="tohttps://instagram.com/hritik_12gautam"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" style="margin: 5px; border-radius: 8px;"/></a>
+    <a href="https://www.linkedin.com/in/hritik-gautam-4bb2781b6"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=LinkedIn &logoColor=white" alt="IN" style="margin: 5px; border-radius: 8px;"/></a>
 </div>
 
 
