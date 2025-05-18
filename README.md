@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=sujeet-12&style=flat-square&color=blue" alt="Profile Views" />
 </p><div align="left">  <h3>👀 Interests</h3>
   <p>Front-end, Full-stack development, and app-based projects.</p>  <h3>🌱 Currently Learning</h3>
-  <p>Next.js, Flutter, and more!</p>  <h3>💡 Passion</h3>
+  <p>Next.js, Flutter, Kotlin &  more!</p>  <h3>💡 Passion</h3>
   <p>Exploring new technologies and experimenting with creative projects.</p>  <h3>😄 Pronouns</h3>
   <p>He/Him</p></div>🛠️ Technologies and Tools
 
