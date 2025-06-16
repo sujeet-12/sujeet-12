@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="Hritik git.png" style="border-radius:4vh"/>  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=blue&width=435&lines=Hello%2C+%F0%9F%91%8B+I'M+HRITIK+GAUTAM.;A+UI%2FUX+Devloper+%26+Designer.;A+Web+dev+%2F+Application+devloper.;A+Game+devloper." alt="Typing SVG"/>
 </div>🌟 About Me
