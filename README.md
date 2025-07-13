@@ -14,7 +14,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,dart,firebase,github,tailwind,jquery,py,figma,vscode&theme=dark&perline=6" alt="Tech Stack" />
 </div>
 
-📋 Profile Overview
+📋 Profile Overview [🥺]
 
 | Feature        | Description                                                                 |
 |---------------|-----------------------------------------------------------------------------|
