@@ -47,7 +47,7 @@
     <img src="https://github-contributor-stats.vercel.app/api?username=sujeet-12&limit=5&theme=vue-dark&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repositories" style=" border-radius: 15px; box-shadow: 0 0 20px rgba(255, 0, 255, 0.7); padding: 10px; background: linear-gradient(145deg, #2c2c2c, #3a3a3a);" />
 </div>
 
-🏆 GitHub Achievements
+🏆 GitHub Achievements [😳]
 
 <a href="https://github.com/user-attachments/assets/a0eca326-97a4-482c-84a7-2120037fdc60">Web Development Certificate</a>
 
