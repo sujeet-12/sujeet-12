@@ -42,7 +42,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujeet-12&layout=donut&theme=vue-dark&hide_border=true&short_numbers=true")](https://github.com/sujeet-12/github-readme-stats)
 ![GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=sujeet-12&theme=cobalt)
 
-🔝 Top Contributions
+🔝 Top Contributions [🤠]
 <div align="center">
     <img src="https://github-contributor-stats.vercel.app/api?username=sujeet-12&limit=5&theme=vue-dark&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repositories" style=" border-radius: 15px; box-shadow: 0 0 20px rgba(255, 0, 255, 0.7); padding: 10px; background: linear-gradient(145deg, #2c2c2c, #3a3a3a);" />
 </div>
