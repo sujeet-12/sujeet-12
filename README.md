@@ -14,7 +14,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,dart,firebase,github,tailwind,jquery,py,figma,vscode&theme=dark&perline=6" alt="Tech Stack" />
 </div>
 
-📋 Profile Overview [🥺]
+📋 Profile Overview [🤙]
 
 | Feature        | Description                                                                 |
 |---------------|-----------------------------------------------------------------------------|
@@ -32,7 +32,7 @@
 </div>
 
 
-📊 GitHub Stats
+📊 GitHub Stats [🥺]
 
 <a href="https://github.com/sujeet-12/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Hritik's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=sujeet-12&theme=vue-dark&hide_border=true&short_numbers=true"/>
